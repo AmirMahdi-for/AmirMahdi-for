@@ -1,6 +1,6 @@
 Hi, I’m AmirMahdi
 
-I’m a Backend Engineer with 4 years of experience building scalable backend applications, APIs, and distributed systems. I also have hands-on experience with Go, AI-powered development workflows, and building end-to-end web applications across backend and frontend.
+I’m a Backend Engineer with 5 years of experience building scalable backend applications, APIs, and distributed systems. I also have hands-on experience with Go, AI-powered development workflows, and building end-to-end web applications across backend and frontend.
 
 Tech Stack
 
