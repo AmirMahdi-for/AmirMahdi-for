@@ -1,8 +1,6 @@
 Hi, I’m AmirMahdi
 
-I’m a Backend Engineer with 4 years of experience building scalable backend applications, APIs, and distributed systems.
-
-I primarily work with PHP and Laravel, and I’m currently expanding my expertise in Go.
+I’m a Backend Engineer with 4 years of experience building scalable backend applications, APIs, and distributed systems. I also have hands-on experience with Go, AI-powered development workflows, and building end-to-end web applications across backend and frontend.
 
 Tech Stack
 
@@ -21,5 +19,5 @@ Interests
 
 Connect with me
 
-* LinkedIn
-* GitHub
+Email: amirmahdifor@gmail.com
+Phone: +98 930 535 9394
